@@ -15,13 +15,9 @@ This is a simple GPA calculator that calculates the GPA of a semester. <br>
 ### CBCS - CHOICE BASED CREDIT SYSTEM <br>
 FORMULAE FOR GPA/CGPA:  <br>
 $$
-GPA/CGPA = \frac{\sum_{i=1}^{n} (C_i \, GP_i)}{\sum_{i=1}^{n} C_i}
+GPA \quad \text{or} \quad CGPA = \frac{\sum_{i=1}^{n} (C_i \, GP_i)}{\sum_{i=1}^{n} C_i}
 $$
-For GPA calculation, use the formula:
 
-$$
-GPA or CGPA = \frac{\sum_{i=1}^{n} (C_i \, GP_i)}{\sum_{i=1}^{n} C_i}
-$$
 
 <br>
 Where: <br>
