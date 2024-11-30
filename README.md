@@ -9,7 +9,7 @@ GPA = (total_points_earned)/(total  no. credits)  <br>
 The formula for calculating GPA is:
 
 $$
-GPA = \frac{\sum (Grade \, Points \times Credit \, Hours)}{\sum Credit \, Hours}
+GPA = \frac{\sum (C \, GP)}{\sum C}
 $$
 
 Where:
