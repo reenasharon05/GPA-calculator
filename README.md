@@ -23,7 +23,7 @@ $$
 
 <br>
 Where: <br>
-- **C_i**  is the number of credits assigned to the course <br>
-- **GP_i** is the point corresponding to the grade obtained for each course  <br>
-- **n**    is the number of all courses successfully cleared during the particular semester in the case of GPA and during all the semesters in the case of CGPA <br>
+-$$ C_i $$ is the number of credits assigned to the course <br>
+-$$ **GP_i** $$ is the point corresponding to the grade obtained for each course  <br>
+-$$ **n** $$ is the number of all courses successfully cleared during the particular semester in the case of GPA and during all the semesters in the case of CGPA <br>
  
