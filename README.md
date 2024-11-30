@@ -15,10 +15,11 @@ This is a simple GPA calculator that calculates the GPA of a semester. <br>
 ### CBCS - CHOICE BASED CREDIT SYSTEM <br>
 FORMULAE FOR GPA/CGPA:  <br>
 
+
 $$
 GPA = \frac{\sum_{i=1}^{n} (C_i \, GP_i)}{\sum_{i=1}^{n} C_i}
 $$
-HOW TO ADD SPACE IINBETWEEN GPA AND CGPA
+
 
 <br>
 Where: <br>
