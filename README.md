@@ -20,7 +20,7 @@ $$
 For GPA calculation, use the formula:
 
 $$
-GPA = \frac{\sum_{i=1}^{n} (C_i \, GP_i)}{\sum_{i=1}^{n} C_i}
+GPA or CGPA = \frac{\sum_{i=1}^{n} (C_i \, GP_i)}{\sum_{i=1}^{n} C_i}
 $$
 
 <br>
