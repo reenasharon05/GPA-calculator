@@ -1,5 +1,5 @@
-# GPA CALCULATOR DESCRIPTION
-This is a simple GPA calculator that calculates the GPA of a semester. <br>
+# GPA CALCULATOR🔢
+This is a GPA calculator that calculates the GPA of a semester. <br>
 ### Grade classification <br>
 | Letter Grade     | Grade Point |
 |------------------|-------------|
